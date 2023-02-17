@@ -3,4 +3,4 @@
 
 int getSum(std::vector<int> numbers);
 int getAverage(std::vector<int> numbers);
-
+int getMin(std::vector<int> numbers);
