@@ -7,4 +7,5 @@ int main()
         numbers[i] = i + 1;
     }
     std::cout << "Sum: " << getSum(numbers) << std::endl;
+    std::cout << "Average: " << getAverage(numbers) << std::endl;
 }
