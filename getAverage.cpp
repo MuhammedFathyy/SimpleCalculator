@@ -1,4 +1,4 @@
-#include <prototypes.h>
+#include "prototypes.h"
 
 // Returns the average value of all elements in a given vector of integers
 int getAverage(std::vector<int> numbers)
